@@ -1,6 +1,6 @@
 cask "notchkeeper" do
-  version "0.7.0"
-  sha256 "d1acb2c334796a57429071fc139ca08328001cbc158515206322aed1fec16727"
+  version "0.7.1"
+  sha256 "9b836464c1d0c6549c64268ea0a3fabd5c4177ed3c0d3ca75f8939797d28e733"
 
   url "https://github.com/thevahidal/notchkeeper/releases/download/v#{version}/Notchkeeper.zip"
   name "Notchkeeper"
