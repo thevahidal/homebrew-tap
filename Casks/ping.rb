@@ -8,7 +8,7 @@ cask "ping" do
   homepage "https://github.com/thevahidal/ping"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Ping.app"
 
